@@ -32,7 +32,18 @@ It is a set of composable packages, not a fixed stack: start with the core, then
 | Repository                                            | Description                                                                   |
 | :---------------------------------------------------- | :---------------------------------------------------------------------------- |
 | [**ndigo**](https://github.com/ndigo/ndigo)           | The framework: packages, demo applications, guides, and architecture decisions |
+| [**ndigo-skills**](https://github.com/ndigo/ndigo-skills) | AI agent skills for building Ndigo applications (`npx add-skill ndigo/ndigo-skills`) |
 | [**ndigo-site**](https://github.com/ndigo/ndigo-site) | The [ndigo.dev](https://ndigo.dev) website                                    |
+
+## AI agent skills
+
+Ndigo ships AI agent skills that teach coding agents (Claude Code, OpenCode, Cursor, …) how to build Ndigo applications. Install them into any project with:
+
+```bash
+npx add-skill ndigo/ndigo-skills
+```
+
+Or, inside a Ndigo app, run `ndigo ai init` to write the skills, instruction file, and MCP wiring together.
 
 ## Getting started
 
