@@ -29,11 +29,12 @@ It is a set of composable packages, not a fixed stack: start with the core, then
 
 ## Repositories
 
-| Repository                                            | Description                                                                   |
-| :---------------------------------------------------- | :---------------------------------------------------------------------------- |
-| [**ndigo**](https://github.com/ndigo/ndigo)           | The framework: packages, demo applications, guides, and architecture decisions |
-| [**ndigo-skills**](https://github.com/ndigo/ndigo-skills) | AI agent skills for building Ndigo applications (`npx add-skill ndigo/ndigo-skills`) |
-| [**ndigo-site**](https://github.com/ndigo/ndigo-site) | The [ndigo.dev](https://ndigo.dev) website                                    |
+| Repository                                                  | Description                                                                   |
+| :---------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| [**ndigo**](https://github.com/ndigo/ndigo)                 | The framework: packages, demo applications, guides, and architecture decisions |
+| [**ndigo-site**](https://github.com/ndigo/ndigo-site)       | The [ndigo.dev](https://ndigo.dev) website                                    |
+| [**ndigo-skills**](https://github.com/ndigo/ndigo-skills)   | AI agent skills for building Ndigo applications (`npx add-skill ndigo/ndigo-skills`) |
+| [**create-ndigo-app**](https://github.com/ndigo/create-ndigo-app) | Standalone Ndigo application scaffolder (node or browser)              |
 
 ## AI agent skills
 
