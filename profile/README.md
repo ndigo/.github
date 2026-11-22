@@ -62,6 +62,10 @@ The [demo ladder](https://github.com/ndigo/ndigo/tree/main/apps) walks from a mi
 
 **Requirements:** Node.js ≥ 24 and pnpm ≥ 12.
 
+## Community
+
+This organization follows the [Contributor Covenant](https://github.com/ndigo/.github/blob/main/CODE_OF_CONDUCT.md) Code of Conduct. Vulnerability reports go through the process in [SECURITY.md](https://github.com/ndigo/.github/blob/main/SECURITY.md) (private advisory preferred). Baseline code conventions live in [CONVENTIONS.md](https://github.com/ndigo/.github/blob/main/CONVENTIONS.md).
+
 ## Contributing
 
 Ndigo is pre-1.0: APIs may change between releases, and feedback is most valuable while the design is still fluid. Read [CONTRIBUTING.md](https://github.com/ndigo/ndigo/blob/main/CONTRIBUTING.md) before opening an issue or pull request.
